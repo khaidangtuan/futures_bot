@@ -1,0 +1,2 @@
+strategy,symbol,timeframe,config,return,avg_daily_pnl,sharpe_ratio,win_rate,trades,score
+VWAPReversion,BTCUSDT,4h,"{'window': 30, 'std_dev': 1}",0.02687571824768631,0.0033594647809607886,4.657233727823371,0.5833333333333334,3,7.30439297664941

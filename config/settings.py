@@ -1,8 +1,8 @@
 # config/settings.py
 
 # exchange settings
-BINANCE_API_KEY = "FERXZLa8ne7klEGMKWSHcuk0S142wNElyDAa9SVT4HiMsMUUKvE7fFmB2lg96Z5d"
-BINANCE_API_SECRET = "Gbt9clNcyTltaUwkbQL6GDC3DWth15Wky0XzVccHbhCE2Z84rcrflB4nrqz7JDaP"
+BINANCE_API_KEY = ""
+BINANCE_API_SECRET = ""
 BASE_URL = "https://fapi.binance.com"
 
 # screener settings
